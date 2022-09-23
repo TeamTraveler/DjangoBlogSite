@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+migrations/
+db.sqlite3
+.ideal/
